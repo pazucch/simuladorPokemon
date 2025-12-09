@@ -124,4 +124,3 @@ Linux:
  HP com barra visual e cores (ANSI)
 
  Sprites ASCII para cada Pokémon
-```
