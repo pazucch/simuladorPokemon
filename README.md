@@ -98,7 +98,9 @@ Linux:
 ./simuladorpokemon
 ```
 
-🚀 Possíveis melhorias futuras
+---
+
+## 🚀 Possíveis melhorias futuras
  IA para escolha de golpes
 
  Interface gráfica
