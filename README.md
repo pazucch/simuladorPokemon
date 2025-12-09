@@ -65,8 +65,6 @@ O arquivo principal é:
 
 simuladorpokemon.c
 
-yaml
-Copiar código
 
 ---
 
