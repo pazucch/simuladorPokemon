@@ -72,28 +72,32 @@ Copiar código
 
 ## 🛠️ Como compilar
 
-### GCC (recomendado)
+### GCC
 
 Windows:
 
 ```bash
 gcc simuladorpokemon.c -o simuladorpokemon.exe -std=c99 -Wall -Wextra
+```
+
 Linux:
 
-bash
-Copiar código
+```bash
 gcc simuladorpokemon.c -o simuladorpokemon -std=c99 -Wall -Wextra
+```
+ 
 ▶️ Como executar
+
 Windows:
-
-bash
-Copiar código
+```bash
 ./simuladorpokemon.exe
-Linux:
+```
 
-bash
-Copiar código
+Linux:
+```bash
 ./simuladorpokemon
+```
+
 🚀 Possíveis melhorias futuras
  IA para escolha de golpes
 
